@@ -1,0 +1,64 @@
+#center {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    margin: 0;
+}
+
+
+
+.wrap {
+    border: 1px solid black;
+    background-color: #FF7D4F;
+}
+
+body {
+    background-color: #F8F9FA;
+    
+}
+
+
+
+
+.sticky {
+    
+    position: absolute;
+    top: 0;
+    
+}
+
+.bird {
+    width: 10%;
+}
+
+img {
+    width: 100%;
+    max-height: 400px;
+}
+
+.login {
+    background-color: white;   
+    color: #FF7D4F;
+    border: 1px solid black;
+    
+}
+
+.sign {
+    background-color: #FF7D4F;
+    color: black;
+    border: 1px solid black;
+}
+
+.login:hover{
+    background-color: #FF7D4F;
+    color: black;
+    border: 1px solid black;
+
+}
+
+.sign:hover {
+    background-color: white;
+    color: #FF7D4F;
+    border: 1px solid black;
+}
+

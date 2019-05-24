@@ -1,0 +1,84 @@
+div {
+    
+}
+
+a {
+    cursor: pointer;
+}
+
+.test2{
+	border: 1px dashed grey;
+}
+
+.test {
+    display: inline-block;
+}
+
+.smoll {
+    margin-right: 500px;
+}
+
+.container {
+    background-color: #F8F9FA;
+}
+
+.blah {
+    vertical-align: top;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: #F8F9FA;
+}
+
+.nav > btn-test {
+    float: right;
+}
+
+.bird {
+    width: 10%;
+}
+
+li:hover {
+    background-color: #FF7D4F;
+    cursor: pointer;
+
+}
+
+.forum-content {
+    display: none;
+}
+
+.primary {
+    background-color: #FF7D4F;
+    color: black;
+    border-color: black;
+}
+
+.sign {
+    color: #FF7D4F;
+    border: 1px solid black;
+    border-color: black;
+}
+
+.primary:hover {
+    background-color: white;
+    color: #FF7D4F;
+}
+
+.sign:hover {
+    background-color: #FF7D4F;
+}
+
+@media (max-width: 992px) {
+    .hm {
+        margin-left: 20%;
+    }
+}
+
+
+
+
+

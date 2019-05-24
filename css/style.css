@@ -1,0 +1,117 @@
+div {
+  
+}
+#lineup{
+    border-bottom: 1px solid grey;
+}
+.inline {
+    display: inline-block;
+    float: left;
+    padding: 0;
+    
+}
+
+
+.smoll {
+   margin-right: 500px;
+}
+
+.container {
+    background-color: #F8F9FA;
+}
+.home {
+    background-color: #FF7D4F;
+    border-bottom: 2px solid black;
+    color: black;
+
+}
+
+.sticky{
+    position: sticky;
+    top:0;
+    z-index: 2;
+    background-color: #F8F9FA;
+}
+
+.nav > btn-test  {
+    float: right;
+}
+
+.camden {
+    height: 400px;
+}
+
+.image {
+    position: relative;
+    text-align: center;
+    z-index: 0;
+
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1;
+    color: orange;
+}
+
+
+.thumbnail {
+    position: relative;
+    color: #FF7D4F
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+
+}
+
+body {
+    color: black;
+}
+
+.bird {
+    width: 10%;
+}
+
+.bottom_image {
+    max-height: 400px;
+    padding: 0;
+    width: 100%;
+}
+
+.bottom {
+    background-color: #181617;
+}
+
+.primary{
+    background-color: #FF7D4F;
+    color: black;
+    border-color: black;
+}
+
+.sign {
+    color: #FF7D4F;
+    border: 1px solid black;
+    border-color: black;
+}
+
+.primary:hover {
+    background-color: white;
+    color: #FF7D4F;
+}
+
+.sign:hover {
+    background-color: #FF7D4F;
+}
+
+@media (max-width: 992px) {
+    .hm {
+       margin-left: 20%;
+    }
+}
+
